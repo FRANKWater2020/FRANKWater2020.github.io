@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.13901b14.chunk.css",
-    "main.js": "/static/js/main.9fed2a5d.chunk.js",
-    "main.js.map": "/static/js/main.9fed2a5d.chunk.js.map",
+    "main.js": "/static/js/main.e55d1d3a.chunk.js",
+    "main.js.map": "/static/js/main.e55d1d3a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a3b2a39f.js",
     "runtime-main.js.map": "/static/js/runtime-main.a3b2a39f.js.map",
     "static/css/2.067ccc96.chunk.css": "/static/css/2.067ccc96.chunk.css",
-    "static/js/2.9721e601.chunk.js": "/static/js/2.9721e601.chunk.js",
-    "static/js/2.9721e601.chunk.js.map": "/static/js/2.9721e601.chunk.js.map",
+    "static/js/2.1a71ab21.chunk.js": "/static/js/2.1a71ab21.chunk.js",
+    "static/js/2.1a71ab21.chunk.js.map": "/static/js/2.1a71ab21.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4bd4813cb08b961c19fb8aa2c67da65c.js": "/precache-manifest.4bd4813cb08b961c19fb8aa2c67da65c.js",
+    "precache-manifest.175b447bfef8217a6188bb18a0019bae.js": "/precache-manifest.175b447bfef8217a6188bb18a0019bae.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.067ccc96.chunk.css.map": "/static/css/2.067ccc96.chunk.css.map",
     "static/css/main.13901b14.chunk.css.map": "/static/css/main.13901b14.chunk.css.map",
-    "static/js/2.9721e601.chunk.js.LICENSE.txt": "/static/js/2.9721e601.chunk.js.LICENSE.txt",
+    "static/js/2.1a71ab21.chunk.js.LICENSE.txt": "/static/js/2.1a71ab21.chunk.js.LICENSE.txt",
     "static/media/01_Introduction.jpg": "/static/media/01_Introduction.0ac2afcb.jpg",
     "static/media/03_Global_case_study_2.jpg": "/static/media/03_Global_case_study_2.560aa36a.jpg",
     "static/media/04_Global_case_study_3.jpg": "/static/media/04_Global_case_study_3.277bc330.jpg",
@@ -24,7 +24,6 @@
     "static/media/RainCloud.9b8ce049.svg": "/static/media/RainCloud.9b8ce049.svg",
     "static/media/annual-rainfall-uk.png": "/static/media/annual-rainfall-uk.796f77f8.png",
     "static/media/completed-marker.svg": "/static/media/completed-marker.36c18b44.svg",
-    "static/media/frankWaterLogo.png": "/static/media/frankWaterLogo.afe7ce2c.png",
     "static/media/globe-complete.svg": "/static/media/globe-complete.146e723f.svg",
     "static/media/globe.svg": "/static/media/globe.8bc6b332.svg",
     "static/media/house-complete.svg": "/static/media/house-complete.306daf4e.svg",
@@ -51,8 +50,8 @@
   "entrypoints": [
     "static/js/runtime-main.a3b2a39f.js",
     "static/css/2.067ccc96.chunk.css",
-    "static/js/2.9721e601.chunk.js",
+    "static/js/2.1a71ab21.chunk.js",
     "static/css/main.13901b14.chunk.css",
-    "static/js/main.9fed2a5d.chunk.js"
+    "static/js/main.e55d1d3a.chunk.js"
   ]
 }
